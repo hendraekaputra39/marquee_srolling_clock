@@ -1,0 +1,14 @@
+{
+    "status": "ok",
+    "sources": [
+        {
+            "id": "google-news",
+            "name": "Google News",
+            "description": "berita terbaru terpercaya",
+            "url": "https://news.google.com",
+            "category": "berita lokal",
+            "language": "id",
+            "country": "id"
+        }
+    ]
+}
